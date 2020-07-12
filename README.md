@@ -1,4 +1,4 @@
-#Machine Leanrning Challenge Objectives
+#Machine Learning Challenge Objectives
 
 1) Find a problem worth solving
 2) Use ML in the context of technologies learned.
